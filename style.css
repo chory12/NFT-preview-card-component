@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&family=Outfit:wght@300;400;600&family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+
+body{
+    background-color:hsl(217, 54%, 11%) ;
+}
+.main{
+    background-color: hsl(216, 50%, 16%);
+    height: 600px;
+    width:350px ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    border-radius: 15px;
+    
+}
+.equilibrium{
+    height: 290px;
+    width: 290px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 15px;
+    
+}
+h1{
+    color: white;
+    font-family: 'Outfit',sans-serif;
+    font-weight: 600;
+    padding-left: 30px;
+    
+}
+p{
+    font-family:'Outfit',sans-serif;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.para1{
+    color: hsl(178, 100%, 50%);
+    font-weight: 400;
+    font-family:'Outfit',sans-serif;
+    width: 100px;
+    margin:0;
+    padding: 0;
+}
+.icon{
+    padding-left: 30px;
+    padding-right: 8px;
+    height:18px ;
+    width: 11px;
+}
+.iconsection{
+    display: flex;
+    letter-spacing: 1px;
+    width: 175px;
+    float: left;
+}
+.iconsection2{
+    
+    letter-spacing: 1px;
+    width: 175px;
+    float: right;
+}
+.clockicon{
+    height:17px;
+    width: 17px;
+    padding-left: 38px;
+    
+    
+}
+.para2{
+    margin: 0;
+    padding-left: 5px;
+    padding-right: 30px;
+    float: right;
+    height: 17px;
+}
+hr{
+    margin-left: 30px;
+    margin-right: 30px;
+    width:290px ;
+    margin-top: 70px; 
+    opacity: 0.1; 
+}
+.avatarsection{
+    height: 90px;
+    display: flex;
+}
+.avatar{
+    border: solid white 1px;
+    border-radius: 50%;
+    height: 35px;
+    margin-top: 17px;
+    margin-left:30px ;
+}
+.para3{
+    font-weight: 300;
+    font-family:'Outfit',sans-serif;
+    margin-top: 25px;
+}
+p span{
+    color: white;
+}
+h1:hover{
+    color:hsl(178, 100%, 50%) ;
+}
+p span:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+
+
+
